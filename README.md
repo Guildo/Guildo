@@ -7,7 +7,7 @@ Formado em Análise e Desenvolvimento de Sistemas na FATEC - Mogi das Cruzes.
 
 Dois anos de experiência atuando como desenvolvedor back-end.
 
-Atualmente fazendo o curso de especialização em Back-End Java na EBAC (Escola Britânica de Artes Criativas e Tecnologia)
+Especialista Back-End Java formado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
 ### Competências
 
@@ -43,16 +43,11 @@ Atualmente fazendo o curso de especialização em Back-End Java na EBAC (Escola 
 
 ### Estatísticas do GitHub
 
-| ![Ronaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guildo&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guildo&layout=compact&theme=radical) |
+| ![Guildo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guildo&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guildo&layout=compact&theme=radical) |
 |---|---|
 
 🔗 **Conecte-se comigo!**
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guikajimura@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/guilherme-kajimura/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5518996207634?text=" alt="WhatsApp"/></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-kajimura/)](https://www.linkedin.com/in/guilherme-kajimura/)
+[![Gmail Badge](https://img.shields.io/badge/-guikajimura@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guikajimura@gmail.com)](mailto:guikajimura@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-%231ED760?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://wa.me/5518996207634)](https://wa.me/5518996207634)
