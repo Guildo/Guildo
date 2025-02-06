@@ -48,4 +48,11 @@ Atualmente fazendo o curso de especialização em Back-End Java na EBAC (Escola 
 
 🔗 **Conecte-se comigo!**
 
-<a href="[https://www.linkedin.com/in/ronaldo-hauser-dias/](https://www.linkedin.com/in/guilherme-kajimura/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Guilherme" height="30" width="40" />
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guikajimura@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/guilherme-kajimura/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5518996207634?text=" alt="WhatsApp"/></a>
+</p>
